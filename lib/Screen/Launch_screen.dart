@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(BazarSadaaiApp());
+  runApp( LaunchScreen());
 }
 
-class BazarSadaaiApp extends StatelessWidget {
+class LaunchScreen extends StatelessWidget {
+  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
